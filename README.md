@@ -7,13 +7,9 @@
 
 - 📫 Visit My Site **https://shashvik.github.io/security-engineer/**
 
-- 📄 Know about my experiences [Google,Razorpay,Enphase Energy](Google,Razorpay,Enphase Energy)
+- 📄 Know about my experiences [Google,Razorpay,Enphase Energy]
 
-- ⚡ Fun fact **Need To Explore**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
