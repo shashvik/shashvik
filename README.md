@@ -6,6 +6,12 @@
 - 🌐 Visit my portfolio: **https://shashvik.github.io/security-engineer/**
 - 💼 My experience includes contributions at [Google, Razorpay, Enphase Energy]
 
+- Cyber Security@google| DevSecOps cloud security(AWS,GCP,Azure)| AI-LLM security | Incident response | Vulnerability Management | Kubernetes Security |Application Security | Product Security | IOT Security
+- Technologies: AI-LLM,Agentic AI,SIEM, EDR, AV, IAM, PAM, SAST/DAST, Mail Security, Web Application Firewall, Data Loss Prevention, Network    access control, Container Security, CSPM, FIM, Red Teaming
+Tools:modelarmor,cloudarmor,secops,Secureworks XDR, Elastic Stack, Wazuh, SentinelOne,Crowdstrike, Qualys, Zscaler, Proofpoint, Fastly WAF, AWS WAF,    Caldera, Kali,Forescout,Fortify, Snyk, Guard Duty, Cloudtrail, AWS Config,Trusted Advisor, Azure activity logs, BeyondTrust, Malwarebytes, Azure AD,Pingsafe,cloudsek,akto,semgroup,dependabot, Forcepoint
+Languages: SQL, HTML, Javascript, Bash,Python, Powershell,PHP,Terraform
+Others: Cloud ( GCP, Azure, AWS), Jenkins,github actions, Docker, Kubernetes, Microsoft Suite, Machine Learning, OS ( Windows, Linux)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shashank-n-security" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
